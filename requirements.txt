@@ -5,8 +5,6 @@ numpy
 tensorboard
 matplotlib
 streamlit
-scikeras
 pickle
 nltk
-joblib
 seaborn
