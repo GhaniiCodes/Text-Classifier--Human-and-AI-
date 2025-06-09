@@ -1,10 +1,7 @@
-tensorflow 
-pandas 
+tensorflow
+pandas
 scikit-learn
-numpy 
+numpy
 tensorboard
 matplotlib
 streamlit
-pickle
-nltk
-seaborn
